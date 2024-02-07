@@ -121,22 +121,28 @@
     },
     "reforgeStats": {
       "COMMON": {
-        "speed": 5
+        "speed": 5,
+        "farming fortune" : 5
       },
       "UNCOMMON": {
-        "speed": 7
+        "speed": 7,
+        "farming fortune" : 7
       },
       "RARE": {
-        "speed": 9
+        "speed": 9,
+        "farming fortune" : 9
       },
       "EPIC": {
-        "speed": 13
+        "speed": 13,
+        "farming fortune" : 13
       },
       "LEGENDARY": {
-        "speed": 16
+        "speed": 16,
+        "farming fortune" : 16
       },
       "MYTHIC": {
-        "speed": 20
+        "speed": 20,
+        "farming fortune" : 20
       }
     }
   },

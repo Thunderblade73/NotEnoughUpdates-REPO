@@ -119,30 +119,50 @@
       "LEGENDARY": "Grants §6+16☘ Farming Fortune §7and §3+5☯ Farming Wisdom§7.",
       "MYTHIC": "Grants §6+20☘ Farming Fortune §7and §3+6☯ Farming Wisdom§7."
     },
-    "reforgeStats": {
+    "reforgeAbilityStats" : {
       "COMMON": {
-        "speed": 5,
-        "-farming fortune" : 5
+        "farming_fortune": 5,
+        "farming_wisdom" : 1
       },
       "UNCOMMON": {
-        "speed": 7,
-        "-farming fortune" : 7
+        "farming_fortune": 7,
+        "farming_wisdom" : 1
       },
       "RARE": {
-        "speed": 9,
-        "-farming fortune" : 9
+        "farming_fortune": 9,
+        "farming_wisdom" : 1
       },
       "EPIC": {
-        "speed": 13,
-        "-farming fortune" : 13
+        "farming_fortune": 13,
+        "farming_wisdom" : 1
       },
       "LEGENDARY": {
-        "speed": 16,
-        "-farming fortune" : 16
+        "farming_fortune": 16,
+        "farming_wisdom" : 1
       },
       "MYTHIC": {
-        "speed": 20,
-        "-farming fortune" : 20
+        "farming_fortune": 20,
+        "farming_wisdom" : 1
+      }
+    },
+    "reforgeStats": {
+      "COMMON": {
+        "speed": 5
+      },
+      "UNCOMMON": {
+        "speed": 7
+      },
+      "RARE": {
+        "speed": 9
+      },
+      "EPIC": {
+        "speed": 13
+      },
+      "LEGENDARY": {
+        "speed": 16
+      },
+      "MYTHIC": {
+        "speed": 20
       }
     }
   },

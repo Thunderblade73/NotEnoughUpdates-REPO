@@ -234,6 +234,18 @@
         1886700
       ],
       "max_level": 200
+    },
+    "BINGO": {
+      "rarity_offset": {
+        "COMMON": 0,
+        "UNCOMMON": 0,
+        "RARE": 0,
+        "EPIC": 0,
+        "LEGENDARY": 0
+      }
+    },
+    "REINDEER": {
+      "xp_multiplier": 2
     }
   },
   "pet_types": {
@@ -299,6 +311,10 @@
     "BINGO": "ALL",
     "EERIE": "COMBAT",
     "SLUG": "FARMING",
-    "OWL": "TAMING"
+    "OWL": "TAMING",
+    "GLACITE_GOLEM": "MINING"
+  },
+  "id_to_display_name": {
+    "TYRANNOSAURUS": "T-Rex"
   }
 }
